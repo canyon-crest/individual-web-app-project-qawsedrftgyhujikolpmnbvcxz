@@ -1,1 +1,22 @@
 /* Add Global styles here */
+nav {
+    display:flex;
+    color:dodgerblue;
+    background-color: dodgerblue;
+    font-family:monospace;
+}
+
+h1 {
+    font-family:monospace;
+}
+
+p {
+    font-family:monospace;
+}
+
+footer {
+    color:white;
+    background-color:darkslategray;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
